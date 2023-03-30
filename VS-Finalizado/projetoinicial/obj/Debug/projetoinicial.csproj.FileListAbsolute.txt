@@ -1,0 +1,41 @@
+C:\Users\2dsetim\Desktop\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.csproj.AssemblyReference.cache
+C:\Users\2dsetim\Desktop\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.csproj.SuggestedBindingRedirects.cache
+C:\Users\2dsetim\Desktop\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.frmmenu.resources
+C:\Users\2dsetim\Desktop\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.frmcombustivel.resources
+C:\Users\2dsetim\Desktop\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.Properties.Resources.resources
+C:\Users\2dsetim\Desktop\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.csproj.GenerateResource.cache
+C:\Users\2dsetim\Desktop\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.csproj.CoreCompileInputs.cache
+C:\Users\2dsetim\Desktop\VS-Eloá e Laura\projetoinicial\projetoinicial\bin\Debug\projetoinicial.exe.config
+C:\Users\2dsetim\Desktop\VS-Eloá e Laura\projetoinicial\projetoinicial\bin\Debug\projetoinicial.exe
+C:\Users\2dsetim\Desktop\VS-Eloá e Laura\projetoinicial\projetoinicial\bin\Debug\projetoinicial.pdb
+C:\Users\2dsetim\Desktop\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.exe
+C:\Users\2dsetim\Desktop\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.pdb
+C:\Users\laisv\Desktop\Eloá - 2023\VS-Eloá e Laura\VS-Eloá e Laura\projetoinicial\projetoinicial\bin\Debug\projetoinicial.exe.config
+C:\Users\laisv\Desktop\Eloá - 2023\VS-Eloá e Laura\VS-Eloá e Laura\projetoinicial\projetoinicial\bin\Debug\projetoinicial.exe
+C:\Users\laisv\Desktop\Eloá - 2023\VS-Eloá e Laura\VS-Eloá e Laura\projetoinicial\projetoinicial\bin\Debug\projetoinicial.pdb
+C:\Users\laisv\Desktop\Eloá - 2023\VS-Eloá e Laura\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.csproj.AssemblyReference.cache
+C:\Users\laisv\Desktop\Eloá - 2023\VS-Eloá e Laura\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.csproj.SuggestedBindingRedirects.cache
+C:\Users\laisv\Desktop\Eloá - 2023\VS-Eloá e Laura\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.frmmenu.resources
+C:\Users\laisv\Desktop\Eloá - 2023\VS-Eloá e Laura\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.frmcombustivel.resources
+C:\Users\laisv\Desktop\Eloá - 2023\VS-Eloá e Laura\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.frmtabuada1.resources
+C:\Users\laisv\Desktop\Eloá - 2023\VS-Eloá e Laura\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.Properties.Resources.resources
+C:\Users\laisv\Desktop\Eloá - 2023\VS-Eloá e Laura\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.csproj.GenerateResource.cache
+C:\Users\laisv\Desktop\Eloá - 2023\VS-Eloá e Laura\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.csproj.CoreCompileInputs.cache
+C:\Users\laisv\Desktop\Eloá - 2023\VS-Eloá e Laura\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.exe
+C:\Users\laisv\Desktop\Eloá - 2023\VS-Eloá e Laura\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.pdb
+C:\Users\laisv\Desktop\Eloá - 2023\VS-Eloá e Laura\VS-Eloá e Laura\projetoinicial\projetoinicial\obj\Debug\projetoinicial.frmtabuada2.resources
+C:\Users\laisv\Desktop\VS-Finalizado\projetoinicial\bin\Debug\projetoinicial.exe.config
+C:\Users\laisv\Desktop\VS-Finalizado\projetoinicial\bin\Debug\projetoinicial.exe
+C:\Users\laisv\Desktop\VS-Finalizado\projetoinicial\bin\Debug\projetoinicial.pdb
+C:\Users\laisv\Desktop\VS-Finalizado\projetoinicial\obj\Debug\projetoinicial.csproj.AssemblyReference.cache
+C:\Users\laisv\Desktop\VS-Finalizado\projetoinicial\obj\Debug\projetoinicial.csproj.SuggestedBindingRedirects.cache
+C:\Users\laisv\Desktop\VS-Finalizado\projetoinicial\obj\Debug\projetoinicial.frmmenu.resources
+C:\Users\laisv\Desktop\VS-Finalizado\projetoinicial\obj\Debug\projetoinicial.frmcombustivel.resources
+C:\Users\laisv\Desktop\VS-Finalizado\projetoinicial\obj\Debug\projetoinicial.frmtabuada1.resources
+C:\Users\laisv\Desktop\VS-Finalizado\projetoinicial\obj\Debug\projetoinicial.frmtabuada2.resources
+C:\Users\laisv\Desktop\VS-Finalizado\projetoinicial\obj\Debug\projetoinicial.frmtabuada3.resources
+C:\Users\laisv\Desktop\VS-Finalizado\projetoinicial\obj\Debug\projetoinicial.Properties.Resources.resources
+C:\Users\laisv\Desktop\VS-Finalizado\projetoinicial\obj\Debug\projetoinicial.csproj.GenerateResource.cache
+C:\Users\laisv\Desktop\VS-Finalizado\projetoinicial\obj\Debug\projetoinicial.csproj.CoreCompileInputs.cache
+C:\Users\laisv\Desktop\VS-Finalizado\projetoinicial\obj\Debug\projetoinicial.exe
+C:\Users\laisv\Desktop\VS-Finalizado\projetoinicial\obj\Debug\projetoinicial.pdb
